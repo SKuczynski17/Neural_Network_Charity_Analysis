@@ -30,7 +30,6 @@ The variables that were the target of this project was the "Is_Successful" metri
 
 ![Part_0](https://github.com/SKuczynski17/Neural_Network_Charity_Analysis/blob/main/Images/Part_0.png)
 
-## Part 4: Design a Study Comparing the MechaCar to the Competition
 ## Optimization 1
 
 In Optimization 1 I made added a third hidden layer with 15 layers. The result of this was an accuract score of 62.4%
